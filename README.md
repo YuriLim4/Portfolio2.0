@@ -17,3 +17,8 @@ Ajude a comunidade realizando algums alterações e disponibilizando também par
 ## Aprenda enquanto edita ❤️
 
 Como o código e bem simples, um conhecimento básico de HTML e CSS conseguem te dar as asas necessárias para voar nesse projeto, utilize códigos da internet, tente brincar com o código enquanto você aprende.
+
+## Visualização 
+
+Esse **[Portifólio](https://yurilim4.netlify.app/)** foi upado no netlify, feito o deploy diretamente do site junto ao GitHub e apresentado para vocês.
+OBS: Indico utilizarem o netlify para upar o projeto pela particidade.
