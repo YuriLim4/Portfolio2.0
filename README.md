@@ -1,24 +1,40 @@
-# Projeto porfifólio 📜
+# 📑 Portifolio 1.0
 
-Bem-vindo(a) ao **Portifólio 2.0**! Aqui você vai encontrar um repositório completo para você montar seu portifólio!
+<p align="center">
+  <img src="./assets/images/print.png" alt="Screenshot do Projeto Barbearia Pavanello" width="800px">
+</p>
 
-## Template ☕️
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript" alt="JavaScript">
+  <img src="https://img.shields.io/badge/CSS3-grey?style=for-the-badge&logo=CSS3" alt="CSS3">
+  <img src="https://img.shields.io/badge/PHP-grey?style=for-the-badge&logo=PHP" alt="TypeScript">
 
-Após algumas xícaras de café, consegui finalizar esse portifólio. Esse template foi entregue em uma aula no YouTube, porém não consegui achar o vídeo para dar os créditos. Realizei algumas adaptações na estilização do template, fiz minhas alterações para deixar minha cara. Você pode utilizar recursos para fazer isso também, inclusive alguns estão apenas comentados no código.
+</p>
 
-## Alterações 🔥
+## 📋 Sobre o Projeto
 
-Como o projeto está em constante mudança, estarei fazendo alterações na medida do possível. Essas alterações são pessoais, não interferem diretamente na utilização para seu portifólio. Aoenas adicinoar alguns links, algumas fotos de projetos e etc... Como eu havia dito anteriormente, o projeto e personalizável e você pode fazer dele a sua cara.
+Um portifólio geral para apresentação de sua carreira. Contém espaço para Projetos, skills, contato e até testemunhos de quem trabalhou com você. O Código e 100% aberto para quem quiser utilizar.
+[Link do Site](https://portifolio-p2.netlify.app/) <br>-*Quem criou a poltrona se inspirou na cadeira.*
 
-## Contribuição ✨
+## 📂 Estrutura do Projeto
 
-Ajude a comunidade realizando algums alterações e disponibilizando também para a rede. Com um pouco de conhecimento e contribuições constantes e bem possível que esse portifólio se torne um megazord de apresentação para as pessoas que estão buscando.
+```
+Portifolio1.0/
+├── assets/           # Pasta que contém arquivos
+│   ├── css/          # Toda estilização do projeto
+│   ├── images/       # Imagens utilizadas no portifólio
+│   ├── js            # JS para slides, autoscroll e contadores
+│   └── php/          # PHP para mailer do site
+└── ...
+```
+## 👨‍💻 Autor
 
-## Aprenda enquanto edita ❤️
+Desenvolvido por Yuri Ponce
 
-Como o código e bem simples, um conhecimento básico de HTML e CSS conseguem te dar as asas necessárias para voar nesse projeto, utilize códigos da internet, tente brincar com o código enquanto você aprende.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuri_Ponce-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yurilim4/)
 
-## Visualização 
+---
 
-Esse **[Portifólio](https://yurilim4.netlify.app/)** foi upado no netlify, feito o deploy diretamente do site junto ao GitHub e apresentado para vocês.
-OBS: Indico utilizarem o netlify para upar o projeto pela particidade.
+<p align="center">
+  <i>Faça o seu melhor nas condições que tem, até ter condições para fazer melhor ainda.</i>
+</p>
