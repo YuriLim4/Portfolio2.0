@@ -1,4 +1,4 @@
-# 📑 Portifolio 1.0
+# 📑 Portifolio 2.0
 
 <p align="center">
   <img src="./assets/images/print.png" alt="Screenshot do Projeto Barbearia Pavanello" width="800px">
@@ -19,7 +19,7 @@ Um portifólio geral para apresentação de sua carreira. Contém espaço para P
 ## 📂 Estrutura do Projeto
 
 ```
-Portifolio1.0/
+Portifolio2.0/
 ├── assets/           # Pasta que contém arquivos
 │   ├── css/          # Toda estilização do projeto
 │   ├── images/       # Imagens utilizadas no portifólio
